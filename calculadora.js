@@ -6,7 +6,7 @@ let multiplicar = (a,b) => a*b
 
 let dividir = (a,b) => a/b
 
-console.log("---------- Testeo de operaciones / Calculadora----------- final hola que tal")
+console.log("---------- Testeo de operaciones / Calculadora----------- final programacion imperativa clase")
 
 console.log(sumar(10,5))
 
